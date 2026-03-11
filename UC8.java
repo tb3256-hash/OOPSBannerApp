@@ -68,5 +68,6 @@ public class UC8 {
         System.out.println("--- Rendering Banner ---");
         displayBanner(message, charMap);
         System.out.println("------------------------");
+        
     }
 }
